@@ -102,7 +102,7 @@ nav{
     width: 100%;
     display: flex;
     align-items: center;
-    background: url(../images/Hero.png) no-repeat;
+    background: url(/images/Hero.png) no-repeat;
     background-size: cover;
     background-position:center;
     
